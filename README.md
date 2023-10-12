@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rossco1991" alt="rossco1991" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <br> Email - rossco1991@outlook.com <br> Linkedin - <a href="https://www.linkedin.com/in/codyross91dev/"> codyross91dev</a></h3>
 <p align="left">
 </p>
 

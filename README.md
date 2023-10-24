@@ -9,6 +9,8 @@
   <li>Godot</li>
   <li>C#</li>
 </ul>
+<p>:dancers: I’m looking to collaborate on any gaming projects or websites!!!
+:thinking_face: I’m looking for help with anything that will help challenge and help me grow</p>
 
 <h3 align="left">Connect with me: <br> Email - rossco1991@outlook.com <br> Linkedin - <a href="https://www.linkedin.com/in/codyross91dev/"> codyross91dev</a></h3>
 <p align="left">

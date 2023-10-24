@@ -3,6 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rossco1991" alt="rossco1991" /></a> </p>
 
+<h2>Currently Learning</h2>
+<ul>
+  <li>Unreal Engine 5</li>
+  <li>Godot</li>
+  <li>C#</li>
+</ul>
+
 <h3 align="left">Connect with me: <br> Email - rossco1991@outlook.com <br> Linkedin - <a href="https://www.linkedin.com/in/codyross91dev/"> codyross91dev</a></h3>
 <p align="left">
 </p>

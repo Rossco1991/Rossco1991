@@ -8,6 +8,7 @@
   <li>Unreal Engine 5</li>
   <li>Godot</li>
   <li>C#</li>
+  <li>Android App Development</li>
 </ul>
 <p>:dancers: I’m looking to collaborate on any gaming projects or websites!!!
 :thinking_face: I’m looking for help with anything that will help challenge and help me grow</p>

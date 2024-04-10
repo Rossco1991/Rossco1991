@@ -7,11 +7,12 @@
 <ul>
   <li>Unreal Engine 5</li>
   <li>Godot</li>
-  <li>C#</li>
-  <li>Android App Development</li>
+  <li>Mobile App Development</li>
+  <li>Blender</li>
 </ul>
-<p> :telescope: I’m looking to collaborate on any gaming projects or websites!!!</p>
+<p> :telescope: Seeking to collaborate on any gaming projects or websites!!!</p>
 <p> :thinking: I’m looking for help with anything that will help challenge and help me grow</p>
+<p> :pray: Ultimately want to go into game design/creation or work mostly on front end applications</p>
 
 <h3 align="left">Connect with me: <br> Email - rossco1991@outlook.com <br> Linkedin - <a href="https://www.linkedin.com/in/codyross91dev/"> codyross91dev</a></h3>
 <p align="left">

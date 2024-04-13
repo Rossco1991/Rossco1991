@@ -5,7 +5,6 @@
 
 <h2>Currently Learning</h2>
 <ul>
-  <li>Unreal Engine 5</li>
   <li>Godot</li>
   <li>Mobile App Development</li>
   <li>Blender</li>

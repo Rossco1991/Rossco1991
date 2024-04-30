@@ -5,9 +5,9 @@
 
 <h2>Currently Learning</h2>
 <ul>
-  <li>Godot</li>
-  <li>Mobile App Development</li>
-  <li>Blender</li>
+  <li>Game Maker</li>
+  <li>Krita</li>
+  <li>RPG Maker</li>
 </ul>
 <p> :telescope: Seeking to collaborate on any gaming projects or websites!!!</p>
 <p> :thinking: I’m looking for help with anything that will help challenge and help me grow</p>
